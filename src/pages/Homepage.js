@@ -1,5 +1,7 @@
 function Homepage() {
-    return (<h1>homepage</h1>)
+    return (
+        <></>
+    )
 }
 
 export default Homepage;
