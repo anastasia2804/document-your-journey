@@ -1,0 +1,12 @@
+.center-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+
+.toast-btn {
+    padding: 20px;
+    font-size: 2rem;
+    border-radius: 10px;
+}
